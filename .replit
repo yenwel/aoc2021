@@ -1,2 +1,2 @@
 language = "julia"
-run = "julia day4.jl"
+run = "julia day6.jl"
